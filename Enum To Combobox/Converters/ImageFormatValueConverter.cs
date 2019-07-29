@@ -4,8 +4,9 @@ using System.ComponentModel;
 using System.Globalization;
 using System.Reflection;
 using System.Windows.Data;
+using Enum_To_Combobox.Enums;
 
-namespace Enum_To_Combobox
+namespace Enum_To_Combobox.Converters
 {
     public class ImageFormatValueConverter : IValueConverter
     {

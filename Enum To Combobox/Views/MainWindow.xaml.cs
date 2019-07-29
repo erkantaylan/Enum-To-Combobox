@@ -1,4 +1,6 @@
-﻿namespace Enum_To_Combobox
+﻿using Enum_To_Combobox.ViewModels;
+
+namespace Enum_To_Combobox.Views
 {
     public partial class MainWindow
     {

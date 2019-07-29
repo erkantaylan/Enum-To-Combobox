@@ -1,7 +1,9 @@
 ﻿using System.ComponentModel;
+using Enum_To_Combobox.Converters;
 
-namespace Enum_To_Combobox
+namespace Enum_To_Combobox.Enums
 {
+    [TypeConverter(typeof(EnumDescriptionTypeConverter))]
     public enum ImageFormat
     {
         [Description("Windows Bitmap")]

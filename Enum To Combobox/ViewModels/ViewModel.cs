@@ -1,8 +1,9 @@
 ﻿using System.ComponentModel;
 using System.Runtime.CompilerServices;
+using Enum_To_Combobox.Enums;
 using JetBrains.Annotations;
 
-namespace Enum_To_Combobox
+namespace Enum_To_Combobox.ViewModels
 {
     public sealed class ViewModel : INotifyPropertyChanged
     {
