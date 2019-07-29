@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28902.138
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum To Combobox", "Enum To Combobox\Enum To Combobox.csproj", "{8A5DC72B-530F-4896-B345-6FB8A125B68F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B0F6502F-F547-49B4-A79F-5B8F3A004281}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A5DC72B-530F-4896-B345-6FB8A125B68F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A5DC72B-530F-4896-B345-6FB8A125B68F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A5DC72B-530F-4896-B345-6FB8A125B68F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A5DC72B-530F-4896-B345-6FB8A125B68F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68CFA7D3-A200-45E6-AE79-15C323E9F4C3}
+	EndGlobalSection
+EndGlobal
