@@ -6,7 +6,7 @@ It is as easy like this to show enums and descriptions at xaml side
 
 XAML Side
 ```xaml
-<ListBox ItemsSource="{Binding Source={extensions:EnumBindingSource {x:Type local:ImageFormat}}}" />
+<ListBox ItemsSource="{Binding Source={extensions:EnumBindingSource {x:Type local:Status}}}" />
 ```
 
 Sample enum (`[TypeConverter(typeof(EnumDescriptionTypeConverter))]` is must)
